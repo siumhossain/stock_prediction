@@ -1,5 +1,6 @@
 # Stock_prediction
 **Stock forecasting by using fbprophet**
+**Open this app [click_here](https://share.streamlit.io/siumhossain/stock_prediction/stock-prediction.py)
 
 ![](1.png)
 ![](2.png)
